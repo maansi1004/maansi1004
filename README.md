@@ -1,87 +1,86 @@
-# Hi there 👋 I'm Maansi
+# Hey, I'm Maansi 👋
 
-### Computer Science Undergraduate | AI & Machine Learning Enthusiast | Software Developer
+**CS Undergraduate @ Thapar University | AI/ML | Backend Engineering | Distributed Systems**
 
-I'm a Computer Science student passionate about building intelligent systems that combine machine learning with scalable software engineering.
+Building intelligent applications and scalable systems at the intersection of AI and software engineering.
 
-Currently, I'm focused on:
-
-* 🤖 Machine Learning & Deep Learning
-* 🧠 Computer Vision
-* ⚡ Backend Development
-* 🏗️ System Design & Distributed Systems
-* 💻 Data Structures & Algorithms
+- 🔬 Research Intern @ Samsung PRISM
+- 🧠 Exploring GenAI & LLMs
+- ⚡ Interested in Backend Architecture and Distributed Systems
+- 💻 500+ DSA problems solved
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
-### 🔹 Privacy-Preserving Federated Learning for Medical Image Classification
+### 🏥 Privacy-Preserving Federated Learning
+Developing a federated learning framework for collaborative medical image classification without sharing raw patient data.
 
-Building a federated learning framework that enables multiple hospitals to collaboratively train computer vision models without sharing patient data.
+### 🧠 AI Repository Intelligence Platform
+Built a RAG-powered codebase assistant with semantic search, processing **300+ files and 2,800+ code chunks**.
 
-### 🔹 AI Repository Intelligence Platform
+### ⚡ Distributed Task Queue
+Developing a multithreaded C++ task processing system with worker pools, retries, and persistent storage.
 
-An intelligent repository assistant that understands large codebases using Retrieval-Augmented Generation (RAG), semantic search, embeddings, and repository analytics.
-
-### 🔹 Distributed Task Queue
-
-A multithreaded task queue built in C++ featuring worker pools, retry mechanisms, scheduling, logging, and concurrent task execution.
-
----
-
-## 🛠 Tech Stack
-
-**Languages**
-
-C++ • Python • JavaScript • SQL
-
-**Machine Learning**
-
-PyTorch • TensorFlow • Scikit-learn • OpenCV • NumPy • Pandas
-
-**Backend**
-
-FastAPI • Node.js • Express.js • REST APIs
-
-**Databases**
-
-PostgreSQL • MongoDB • ChromaDB • Redis
-
-**Tools**
-
-Git • GitHub • Docker • Linux • VS Code
+### 🏦 Banking & Transaction Management System
+Building a banking application with modular backend architecture, transaction processing, and ML-powered risk analysis.
 
 ---
 
-## 📚 Currently Learning
+## 🛠️ Tech Stack
 
-* Deep Learning
-* Federated Learning
-* Distributed Systems
-* Computer Vision
-* Large Language Models (LLMs)
-
-
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maansi1004&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maansi1004&theme=tokyonight" height="170"/>
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript" alt="C++, Python, JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="PyTorch, TensorFlow, OpenCV, Scikit-learn"/>
+</p>
+
+### ⚙️ Backend & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,html,css,tailwind" alt="FastAPI, Node.js, Express, React, HTML, CSS, Tailwind"/>
+</p>
+
+### 🗄️ Databases & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux" alt="PostgreSQL, MongoDB, Redis, Docker, Linux"/>
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code"/>
 </p>
 
 ---
 
-### 📫 Let's Connect
+## 📊 GitHub Analytics
 
-* LinkedIn: https://www.linkedin.com/in/maansi-424193322
-* Email: immaansi10@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maansi1004&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=maansi1004&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+</p>
 
-Thanks for visiting my profile! ⭐
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maansi1004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/maansi-424193322">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:immaansi10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Turning ideas into intelligent systems, one commit at a time. 🚀</i>
+</p>
